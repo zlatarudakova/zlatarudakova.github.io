@@ -1,0 +1,53 @@
+body {
+	background: url("../imgs/photo.jpg") no-repeat fixed;
+	background-size: auto;
+}
+
+.heading {
+	font-family: monospace; Courier New;
+	color: white;
+	font-size: 48px;
+	text-align: center;
+
+
+}
+
+.description {
+	font-family: Georgia;
+	color: white;
+}
+
+.paragraph{
+	position: relative;
+	top: 7vh;
+	margin-left: 150px;
+	margin-right: 150px;
+	text-align: center;
+}
+
+.navbar-title{
+	color: white;
+	font-family: Georgia;
+	font-size: 28px;
+}
+
+.nav-link {
+	color: white;
+	font-family: Georgia;
+	font-size: 28px;
+	position:relative;
+	bottom: 10px;
+}
+
+.navbar  {
+	background: MediumPurple;
+	height: 50px;
+}
+
+.navbar-brand {
+	float: left;
+}
+
+.nav-link {
+	float: right;
+}
